@@ -72,7 +72,6 @@ ol {
     appearance: none;
     min-width: 225px;
     min-height: 27px;
-    margin: 4px 0 0 -4px;
 }
 
 .search-form__textfield:focus {
@@ -281,7 +280,6 @@ ol {
 
 .button:active {
     height: 34px;
-    border: 1px solid #fff;
     background-color: #545050;
     outline: 1px solid #fff;
 }
